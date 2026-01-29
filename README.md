@@ -17,3 +17,5 @@ MODELS:
 Gnome model: https://polyhaven.com/a/garden_gnome
 
 Boulder model: https://polyhaven.com/a/namaqualand_boulder_03
+
+Tire model: https://polyhaven.com/a/old_tyre
