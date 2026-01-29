@@ -10,6 +10,8 @@ Gravel texture: https://polyhaven.com/a/gravel
 
 River pebbles texture: https://polyhaven.com/a/ganges_river_pebbles
 
+-------------------------------------------------------------------------------------------------------------
+
 MODELS:
 
 Gnome model: https://polyhaven.com/a/garden_gnome
