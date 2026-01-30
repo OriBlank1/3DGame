@@ -1,3 +1,7 @@
+In this game, the player is supposed to jump on top of several cubed platforms. They then walk up the mossy bridge before jumping down on small spheres to get to the brick section. Once the player reaches the brick section, they have to use two boulders to climb on top of a giant tire. The player then platforms across giant bricks before making it to the covered car, which marks the end of the level.
+
+I increased the movement speed of the player because I thought by making the player faster, it would make the game more exciting and engaging for the player and improved air mobility can make platforming easier.
+
 TEXTURES:
 
 Moss wood texture: https://polyhaven.com/a/moss_wood
